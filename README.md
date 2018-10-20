@@ -14,5 +14,5 @@ To join to the list of contributors you just need to do this simple steps:
 
 # Hacktoberfest Contributors
 
-[Harish Kotra](https://github.com/harishkotra)
+[Harish Kotra](https://github.com/harishkotra),
 [Oliver Gomes](https://github.com/oliver-gomes)
