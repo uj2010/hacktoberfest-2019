@@ -13,4 +13,7 @@ To join to the list of contributors you just need to do this simple steps:
 # Hacktoberfest Contributors 
 
 [Harish Kotra](https://github.com/harishkotra)
+[ch1771dr0b0](https://github.com/ch1771dr0b0)
+[Shane Wilson](https://github.com/mistyferocity43)
+[MatteCatte](https://github.com/MatteCatte)
 [Bambang Supriadi](https://github.com/bamsarts)
