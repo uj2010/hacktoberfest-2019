@@ -21,3 +21,4 @@ To join to the list of contributors you just need to do this simple steps:
 [Bambang Supriadi](https://github.com/bamsarts)
 [Priyanshu Kumar](https://github.com/PRINCE-hacker)
 [Oliver Gomes](https://github.com/oliver-gomes)
+[Miftah Mizwar](https://github.com/mizwardomlank)
