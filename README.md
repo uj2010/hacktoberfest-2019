@@ -17,3 +17,4 @@ To join to the list of contributors you just need to do this simple steps:
 [Shane Wilson](https://github.com/mistyferocity43)
 [MatteCatte](https://github.com/MatteCatte)
 [Bambang Supriadi](https://github.com/bamsarts)
+[Priyanshu Kumar](https://github.com/PRINCE-hacker)
