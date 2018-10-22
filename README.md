@@ -26,3 +26,4 @@ To join to the list of contributors you just need to do this simple steps:
 - [Ayush Saini](https://github.com/asayushg)
 - [Mirko Viviano](https://github.com/mirkoviviano)
 - [Serhii Makhov](https://github.com/deadid)
+- [Harsh Trivedi](https://github.com/harsh98trivedi)
