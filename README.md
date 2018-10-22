@@ -23,3 +23,4 @@ To join to the list of contributors you just need to do this simple steps:
 [Oliver Gomes](https://github.com/oliver-gomes)
 [Miftah Mizwar](https://github.com/mizwardomlank)
 [Manavpreet Singh](https://github.com/ManavpreetSingh)
+[Ayush Saini](https://github.com/asayushg)
