@@ -24,3 +24,4 @@ To join to the list of contributors you just need to do this simple steps:
 [Miftah Mizwar](https://github.com/mizwardomlank)
 [Manavpreet Singh](https://github.com/ManavpreetSingh)
 [Ayush Saini](https://github.com/asayushg)
+[Mirko Viviano](https://github.com/mirkoviviano)
