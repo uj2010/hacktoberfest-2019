@@ -31,3 +31,4 @@ To join to the list of contributors you just need to do this simple steps:
 - [Shreyansh](https://github.com/Shreyansh0001)
 - [Volodymyr Sydorchuk] (https://github.com/phoenix-ua)
 - [Mudit](https://github.com/mudit9)
+- [Eric Bryant](https://github.com/shmickle)
