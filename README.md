@@ -1,6 +1,8 @@
-# hacktoberfest-2018
+# hacktoberfest 2018 & 2019
 
 Add your name to the README file and I'll accept the PR. This is for beginners to kick start hacktoberfest for the year 2018.
+
+This repo originally began in 2018 and since others have started contributing to this repo even in 2019, took the liberty to update the repo to 2019 as well. Feel free to go ahead and create PRs for the issue mentioned under the Issues tab.
 
 # Adding yourself
 
