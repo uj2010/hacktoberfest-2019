@@ -32,3 +32,4 @@ To join to the list of contributors you just need to do this simple steps:
 - [Volodymyr Sydorchuk] (https://github.com/phoenix-ua)
 - [Mudit](https://github.com/mudit9)
 - [Raman Dutt](https://github.com/Raman1121)
+- [Eric Bryant](https://github.com/shmickle)
