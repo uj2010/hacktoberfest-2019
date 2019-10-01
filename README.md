@@ -14,7 +14,7 @@ To join to the list of contributors you just need to do this simple steps:
 - Commit your changes
 - Create a new PR
 
-# Hacktoberfest Contributors
+# Hacktoberfest Contributors (2018)
 
 - [Harish Kotra](https://github.com/harishkotra)
 - [ch1771dr0b0](https://github.com/ch1771dr0b0)
@@ -32,6 +32,9 @@ To join to the list of contributors you just need to do this simple steps:
 - [matronator](https://github.com/matronator)
 - [Shreyansh](https://github.com/Shreyansh0001)
 - [Volodymyr Sydorchuk](https://github.com/phoenix-ua)
+
+# Hacktoberfest Contributors (2019)
+
 - [Mudit](https://github.com/mudit9)
 - [Raman Dutt](https://github.com/Raman1121)
 - [Eric Bryant](https://github.com/shmickle)
