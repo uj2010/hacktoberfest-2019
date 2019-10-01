@@ -30,3 +30,4 @@ To join to the list of contributors you just need to do this simple steps:
 - [matronator](https://github.com/matronator)
 - [Shreyansh](https://github.com/Shreyansh0001)
 - [Volodymyr Sydorchuk] (https://github.com/phoenix-ua)
+- [Raman Dutt](https://github.com/Raman1121)
