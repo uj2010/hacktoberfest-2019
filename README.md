@@ -39,3 +39,4 @@ To join to the list of contributors you just need to do this simple steps:
 - [Raman Dutt](https://github.com/Raman1121)
 - [Eric Bryant](https://github.com/shmickle)
 - [Lakshmi Kittur](https://github.com/lakshmikittur)
+- [Jonias Fortuna](https://github.com/laztname)
