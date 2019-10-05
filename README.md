@@ -40,6 +40,7 @@ To join to the list of contributors you just need to do this simple steps:
 - [Eric Bryant](https://github.com/shmickle)
 - [Lakshmi Kittur](https://github.com/lakshmikittur)
 - [Jonias Fortuna](https://github.com/laztname)
-- [Anirudh Gautam](https://github.com/anirudhgautam11
+- [Gunjan Gautam](https://github.com/anirudh11gautam)
+- [Anirudh Gautam](https://github.com/anirudhgautam11)
 - [Thomas](https://github.com/35601)
 - [Herve Chardon](https://github.com/chardon1)
