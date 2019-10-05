@@ -45,3 +45,4 @@ To join to the list of contributors you just need to do this simple steps:
 - [Thomas](https://github.com/35601)
 - [Herve Chardon](https://github.com/chardon1)
 - [Coyote Dev](https://github.com/coyote-dev)
+- [Molybdenum](https://github.com/anirudh11gautam)
