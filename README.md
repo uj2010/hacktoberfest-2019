@@ -44,3 +44,4 @@ To join to the list of contributors you just need to do this simple steps:
 - [Anirudh Gautam](https://github.com/anirudhgautam11)
 - [Thomas](https://github.com/35601)
 - [Herve Chardon](https://github.com/chardon1)
+- [Molybdenum](https://github.com/anirudh11gautam)
