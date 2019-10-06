@@ -10,7 +10,7 @@ To join to the list of contributors you just need to do this simple steps:
 
 - Fork this project
 - Edit `README.md` and add your username & href to your github-profile. Please use this format:
-  `[Harish Kotra](https://github.com/harishkotra)`
+  `[Harish Kotra](https://github.com/harishkotra)` Also beside your name, add your favorite quote and include your favorite personality alive/dead.
 - Commit your changes
 - Create a new PR
 
